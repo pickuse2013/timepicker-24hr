@@ -1,0 +1,23 @@
+{
+  "name": "timepicker-24hr",
+  "version": "1.0.0",
+  "description": "A vanilla JavaScript web component for selecting time using a popup dropdown with 24-hour format support.",
+  "main": "timepicker.js",
+  "files": [
+    "timepicker.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "timepicker",
+    "web-component",
+    "24-hour"
+  ],
+  "author": "pickuse",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pickuse2013/timepicker-24hr"
+  }
+} 
