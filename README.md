@@ -23,7 +23,7 @@ Supports **24-hour format**, **form integration**, and requires **no frameworks*
 
 ## 🚀 Demo
 
-[🔗 Live Example (CodePen)](https://codepen.io/) <!-- You can update this later -->
+[🔗 Live Example (CodePen)](https://codepen.io/pickuse2013/pen/ByybOLd)
 
 ---
 
@@ -33,3 +33,5 @@ Supports **24-hour format**, **form integration**, and requires **no frameworks*
 
 ```html
 <script src="https://unpkg.com/timepicker-24hr"></script>
+<time-picker id="time" name="time"></time-picker>
+```
