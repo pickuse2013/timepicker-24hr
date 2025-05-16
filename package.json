@@ -1,6 +1,6 @@
 {
   "name": "timepicker-24hr",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A vanilla JavaScript web component for selecting time using a popup dropdown with 24-hour format support.",
   "main": "timepicker.js",
   "files": [
